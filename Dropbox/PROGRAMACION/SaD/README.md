@@ -1,3 +1,5 @@
+![Logo del proyecto](assets/logo.png)
+
 # Seguimiento de Pedidos a Domicilio 📦
 
 Este es un proyecto simple para gestionar pedidos a domicilio desde una distribuidora. Permite registrar pedidos desde un formulario web y guardarlos en un archivo JSON en el servidor.
